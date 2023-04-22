@@ -999,7 +999,7 @@
   {"id":998,"date":"2023-03-29T19:28:03Z","amount":90.91,"full_name":"Nickolaus Brewins","type":false,"comment":"Taksichi hisobini to’ldirdi","transfer_type":4},
   {"id":999,"date":"2022-10-01T11:58:20Z","amount":24.22,"full_name":"Creigh Lippard","type":true,"comment":"Xodimga oylik berildi","transfer_type":4},
   {"id":1000,"date":"2022-10-04T09:31:40Z","amount":24.05,"full_name":"Templeton McGoldrick","type":true,"comment":"Taksichi hisobini to’ldirdi","transfer_type":4}],
-  "location": [
+  "location":  [
     {
       "id": 23,
       "lat": 41.282781,
@@ -1027,8 +1027,8 @@
     },
     {
       "id": 115,
-      "lat": 41.203945,
-      "long": 69.126373
+      "lat": 41.303945,
+      "long": 69.356373
     },
     {
       "id": 130,
@@ -1058,7 +1058,7 @@
     {
       "id": 256,
       "lat": 41.337092,
-      "long": 69.103574
+      "long": 69.363574
     },
     {
       "id": 263,
@@ -1102,8 +1102,8 @@
     },
     {
       "id": 472,
-      "lat": 41.328162,
-      "long": 69.114914
+      "lat": 41.278162,
+      "long": 69.344914
     },
     {
       "id": 486,
